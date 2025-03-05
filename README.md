@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React and System Design**
 
-- 👯 I’m looking to collaborate on **DuckCreek PAS|| SpringBoot projects**
+- 👯 I’m looking to collaborate on **DuckCreek policy|| DuckCreek Integration || SpringBoot projects**
 
 - 🤝 I’m looking for help with **Spring Boot projects**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/prabhat-jha-21b018169/](https://www.linkedin.com/in/prabhat-jha-21b018169/)
 
-- 💬 Ask me about **DuckCreek policy|| DuckCreek Integration || Back-end || DSA || Insuranc**
+- 💬 Ask me about **DuckCreek policy|| DuckCreek Integration || Back-end || DSA || Insurance**
 
 - 📫 How to reach me **"jprabhat65@gmail.com" || "https://www.linkedin.com/in/prabhat-jha-21b018169/"**
 
